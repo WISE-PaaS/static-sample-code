@@ -1,0 +1,7 @@
+---
+applications:   
+- name: build-pipeline-static-1.0.0
+  memory: 32M
+  disk_quota: 128M
+  instances: 1
+  buildpack: Staticfile_v1-4-27
