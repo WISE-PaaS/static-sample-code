@@ -1,6 +1,6 @@
 ---
 applications:   
-- name: static-codepipeline-demo-1.0.0
+- name: static-codepipeline-demo-1.1.0
   memory: 32M
   disk_quota: 128M
   instances: 1
